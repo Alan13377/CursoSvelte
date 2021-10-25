@@ -1,0 +1,26 @@
+{
+  "name": "pugstagram",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack --mode production",
+    "start": "webpack-dev-server --open --mode development"
+  },
+  "author": "Alan",
+  "license": "ISC",
+  "dependencies": {
+    "svelte": "^3.44.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.15.8",
+    "@babel/polyfill": "^7.12.1",
+    "@babel/preset-env": "^7.15.8",
+    "babel-loader": "^8.2.3",
+    "html-webpack-plugin": "^5.4.0",
+    "svelte-loader": "^3.1.2",
+    "webpack": "^5.59.1",
+    "webpack-cli": "^4.9.1",
+    "webpack-dev-server": "^4.3.1"
+  }
+}

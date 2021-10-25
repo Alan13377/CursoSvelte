@@ -35,7 +35,7 @@
 <div class="Profile">
     <div class="Profile-content">
         <div class="Profile-avatar">
-            <img src="img/Rukia3.jpg"  alt="Perfil">
+            <img src="../img/Rukia3.jpg"  alt="Perfil">
         </div>
 
         <div class="Profile-info">

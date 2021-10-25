@@ -68,7 +68,7 @@
         <div class="Stories-items">
             <div class="Stories-item">
                 <div class="Stories-item-box">
-                    <img src="img/Rukia3.jpg" alt="Perfil">
+                    <img src="../img/Rukia3.jpg"   alt="Perfil">
                 </div>
                 <h2>Alan
                     <span>10 horas antes</span>
